@@ -1,0 +1,9 @@
+{
+    "name": "shuang/xiaonaohu",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/zoujianshuang/xiaonaohu"
+        }
+    ],
+}

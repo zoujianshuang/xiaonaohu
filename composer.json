@@ -1,10 +1,4 @@
 {
     "name": "shuang/xiaonaohu",
     "minimum-stability": "stable",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/zoujianshuang/xiaonaohu"
-        }
-    ],
 }

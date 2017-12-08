@@ -1,5 +1,6 @@
 {
     "name": "shuang/xiaonaohu",
+    "minimum-stability": "stable",
     "repositories": [
         {
             "type": "vcs",

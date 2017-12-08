@@ -1,4 +1,5 @@
 {
     "name": "shuang/xiaonaohu",
-    "description": "xiaonaohu"
+    "description": "xiaonaohu",
+    "minimum-stability": "stable"
 }
